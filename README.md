@@ -6,8 +6,6 @@ Built independently while learning Unity and C# from scratch.
 
 Escape the Catacombs is a fast-paced survival experience where the player navigates hostile underground environments while avoiding and fighting dynamically behaving enemies.
 
-The project focuses on modular system design, AI behavior modeling, and performance-conscious real-time gameplay.
-
 # Key Features
 
 - Player controller with responsive movement and collision handling
